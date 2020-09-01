@@ -2,6 +2,8 @@
 title: "First_post"
 date: 2020-08-26T02:34:56-07:00
 draft: false
+comment: 
+  enable: true
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files.
