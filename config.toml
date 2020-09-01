@@ -71,7 +71,7 @@ theme = "LoveIt"
   [params.footer]
     enable = true
     #  Custom content (HTML format is supported)
-    custom = ''
+    custom = '<a href="/about">About</a> &middot; <a href="/disclaimer">Disclaimer</a> &middot; <a href="/privacy_policy">Privacy Policy</a><br><br>'
     #  whether to show Hugo and theme info
     hugo = false
     #  whether to show copyright info
