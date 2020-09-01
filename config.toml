@@ -1,4 +1,4 @@
-baseURL = "https://loving-torvalds-145174.netlify.app/"
+baseURL = "https://cybsecdiary.com/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -47,6 +47,25 @@ theme = "LoveIt"
   [markup.highlight]
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
+
+# Header config
+  [params.header]
+    # desktop header mode ("fixed", "normal", "auto")
+    desktopMode = "fixed"
+    # mobile header mode ("fixed", "normal", "auto")
+    mobileMode = "auto"
+    #  Header title config
+    [params.header.title]
+      # URL of the LOGO
+      logo = "/cybsecdiary-317px250px.png"
+      # title name
+      name = ""
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      #  whether to use typeit animation for title name
+      typeit = false
 
 # Footer config
   [params.footer]
