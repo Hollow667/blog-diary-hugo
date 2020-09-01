@@ -432,11 +432,11 @@ theme = "LoveIt"
       enable = false
     #  Utterances comment config
     [params.page.comment.utterances]
-      enable = false
+      enable = true
       # owner/repo
-      repo = ""
+      repo = "yuza/blog-diary-hugo"
       issueTerm = "pathname"
-      label = ""
+      label = "✨💬✨"
       lightTheme = "github-light"
       darkTheme = "github-dark"
   #  Third-party library config
