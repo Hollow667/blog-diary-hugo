@@ -1,9 +1,9 @@
 baseURL = "https://loving-torvalds-145174.netlify.app/"
 # [en, zh-cn, fr, ...] determines default content language
-defaultContentLanguage = "en"
+defaultContentLanguage = "id"
 # language code
-languageCode = "en"
-title = "My New Hugo Site"
+languageCode = "id"
+title = "Cybsecdiary"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -34,7 +34,7 @@ theme = "LoveIt"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
-    svgFavicon = ""
+    svgFavicon = "/cybsecdiary-317px250px.png"
     # Android browser theme color
     themeColor = "#ffffff"
     # Safari mask icon color
@@ -73,9 +73,9 @@ theme = "LoveIt"
     #  Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = ""
+      logo = "/cybsecdiary-317px250px.png"
       # title name
-      name = "asdasd"
+      name = ""
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -95,11 +95,11 @@ theme = "LoveIt"
     #  whether to show the author
     author = true
     # Site creation time
-    since = 2019
+    since = 2016
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
-    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    license = 'Made with <span style="text-decoration:line-through;">Love</span> Keyboard <br> Using Hugo, Netlify, EuroDNS<br>Indonesia<br><br>'
 
   #  Section (all posts) page config
   [params.section]
@@ -129,7 +129,7 @@ theme = "LoveIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "/cybsecdiary.ava.jpg"
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
@@ -151,12 +151,12 @@ theme = "LoveIt"
 
   # Social config about the author
   [params.social]
-    GitHub = "xxxx"
+    GitHub = ""
     Linkedin = ""
-    Twitter = "xxxx"
-    Instagram = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
+    Twitter = ""
+    Instagram = ""
+    Facebook = ""
+    Telegram = ""
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -193,7 +193,7 @@ theme = "LoveIt"
     Twitch = ""
     Strava = ""
     Skype = ""
-    Whatsapp = ""
+    Whatsapp = "+351912772767"
     Zhihu = ""
     Douban = ""
     Angellist = ""
@@ -213,7 +213,7 @@ theme = "LoveIt"
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Email = "xxxx@xxxx.com"
+    Email = "blog@cybsecdiary.com"
     RSS = true # 
 
   #  Page config
@@ -493,9 +493,9 @@ theme = "LoveIt"
 
 # Author config
 [author]
-  name = "xxxx"
-  email = ""
-  link = ""
+  name = "Cybsecdiary"
+  email = "blog@cybsecdiary.com"
+  link = "https://cybsecdiary.com"
 
 # Sitemap config
 [sitemap]
@@ -548,7 +548,7 @@ theme = "LoveIt"
     name = "Posts"
     url = "/posts/"
     # title will be shown when you hover on this menu link
-    title = ""
+    title = "Posts"
     weight = 1
   [[menu.main]]
     identifier = "tags"
@@ -556,7 +556,7 @@ theme = "LoveIt"
     post = ""
     name = "Tags"
     url = "/tags/"
-    title = ""
+    title = "Tags"
     weight = 2
   [[menu.main]]
     identifier = "categories"
@@ -564,5 +564,5 @@ theme = "LoveIt"
     post = ""
     name = "Categories"
     url = "/categories/"
-    title = ""
+    title = "Categories"
     weight = 3
