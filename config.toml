@@ -65,3 +65,18 @@ theme = "LoveIt"
     icp = ""
     # license info (HTML format is supported)
     license = '<a href="https://cybsecdiary.com">Cybsecdiary</a><br><span>Build on top JAMstack concept.</span><br>in Indonesia<br><br>'
+
+#  App icon config
+[params.app]
+  # optional site title override for the app when added to an iOS home screen or Android launcher
+  title = "Cybsecdiary"
+  # whether to omit favicon resource links
+  noFavicon = false
+  # modern SVG favicon to use in place of older style .png and .ico files
+  svgFavicon = "/cybsecdiary-317px250px.png"
+  # Android browser theme color
+  themeColor = "#ffffff"
+  # Safari mask icon color
+  iconColor = "#5bbad5"
+  # Windows v8-10 tile color
+  tileColor = "#da532c"
