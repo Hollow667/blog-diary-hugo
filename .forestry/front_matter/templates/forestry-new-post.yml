@@ -1,0 +1,17 @@
+---
+label: forestry new post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: field_group
+  name: comment
+  label: comment
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
