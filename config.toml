@@ -386,7 +386,7 @@ theme = "LoveIt"
       # 
       enable = true
       owner = "yvza"
-      repo = "yvza/blog.comments"
+      repo = "blog.comments"
       clientId = "9775fec365b1fd43656b"
       clientSecret = "5a626c73eb6925904056e0a9781d056a5db8c5fd"
     # Valine comment config
