@@ -19,7 +19,7 @@ theme = "LoveIt"
   defaultTheme = "auto"
   #  which hash function used for SRI, when empty, no SRI is used
   # ("sha256", "sha384", "sha512", "md5")
-  fingerprint = "sha512"
+  fingerprint = ""
   # website images for Open Graph and Twitter Cards
   images = ["/cybsecdiary-317px250px.png"]
 
