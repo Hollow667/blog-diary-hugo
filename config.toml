@@ -419,14 +419,14 @@ theme = "LoveIt"
       languageCode = ""
     #  Telegram comments config
     [params.page.comment.telegram]
-      enable = false
-      siteID = ""
-      limit = 5
-      height = ""
-      color = ""
+      enable = true
+      siteID = "pYKu7qou"
+      limit = 100
+      height = "Auto"
+      color = "BE1D28"
       colorful = true
-      dislikes = false
-      outlined = false
+      dislikes = true
+      outlined = true
     #  Commento comment config
     [params.page.comment.commento]
       enable = false
