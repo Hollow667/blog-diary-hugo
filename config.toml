@@ -12,9 +12,9 @@ theme = "LoveIt"
   # LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "This is My New Hugo Site"
+  description = "We all die. 1337 x 999"
   # site keywords
-  keywords = ["Theme", "Hugo"]
+  keywords = ["Cybsecdiary", "Cyber Security Diary", "Free Stuff", "Tutorial", "Sick Notes", "Underground", "Information", "Fvck World!"]
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   #  which hash function used for SRI, when empty, no SRI is used
