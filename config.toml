@@ -12,7 +12,7 @@ theme = "LoveIt"
   # LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "We all die. 1337 x 999"
+  description = "Cybsecdiary is stand for Cyber Security Diary, the site who share everything happen inside Internet."
   # site keywords
   keywords = ["Cybsecdiary", "Cyber Security Diary", "Free Stuff", "Tutorial", "Sick Notes", "Underground", "Information", "Fvck World!"]
   # site default theme ("light", "dark", "auto")
@@ -165,7 +165,7 @@ theme = "LoveIt"
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
-      subtitle = "This is My New Hugo Site"
+      subtitle = "Haii, thanks for clicking, right here u will see a lot free stuff which u don't have to buy. So sit back and enjoy the content!"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
